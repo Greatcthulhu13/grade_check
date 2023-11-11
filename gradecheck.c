@@ -20,4 +20,3 @@ int main()
 	else printf("You failed \n");
 	return 0;
 }
-/* Try removing the 'else's */
